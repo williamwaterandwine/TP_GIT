@@ -3,15 +3,15 @@ Git par la pratique
 
 * Mettez vous en binôme.
 * [Installez Git et configurez-le pour GitHub](http://help.github.com/set-up-git-redirect/)
-* Dupliquez (*fork*) le projet TP-Git dans votre espace public.
+* Dupliquez (*fork*) le projet TP_GIT dans votre espace public.
 * Récupérez sur votre disque dur les sources du projet.
 
-        git clone git@github.com:votrecompte/TP-Git.git
+        git clone git@github.com:votrecompte/TP_GIT.git
 
 * Indiquez le dépôt officiel :
 
-        cd TP-Git
-        git remote add official git@github.com:benel/TP-Git.git 
+        cd TP-GIT
+        git remote add official git@github.com:MehdiLhommeau/TP_GIT.git 
 
 * Sur votre disque dur, ajoutez à la fin de ce fichier le prénom et le nom d'un des membres du binôme. La ligne doit commencer par une étoile. Corrigez la liste pour que la dernière ligne se termine par un point et les autres par des virgules.
 * Faites une révision :
