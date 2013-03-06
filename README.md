@@ -2,8 +2,8 @@ Git par la pratique
 ===================
 
 * Mettez vous en binôme.
-* [Installez Git et configurez-le pour GitHub](http://help.github.com/set-up-git-redirect/)
-* Dupliquez (*fork*) le projet TP_GIT dans votre espace public.
+* [Installez Git et configurez-le pour GitHub.](http://help.github.com/set-up-git-redirect/)
+* [Dupliquez (*fork*) le projet TP_GIT dans votre espace public.](https://help.github.com/articles/fork-a-repo)
 * Récupérez sur votre disque dur les sources du projet.
 
         git clone git@github.com:votrecompte/TP_GIT.git
