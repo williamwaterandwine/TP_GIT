@@ -9,7 +9,7 @@ Git par la pratique
         git clone git@github.com:votrecompte/TP_GIT.git
 
 * [En cas d'erreur (message ci-dessous), il faudra ajouter une clé SSH à votre compte GIT](https://help.github.com/articles/generating-ssh-keys) 
- 
+	
 	Cloning into TP_GIT...
 	Permission denied (publickey).
 	fatal: The remote end hung up unexpectedly
