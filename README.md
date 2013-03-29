@@ -56,4 +56,6 @@ Liste des étudiants ayant réussi ce TP
 * Alexandre TARDIF & Gaylord THIREAU,
 * Vincent GILBERT & * Tanguy MOREAU,
 * Thomas POHU & Antoine SECHET & Arnaud PIHOURS,
-* Romain DUPUY & Morgane MAZUR.
+* Romain DUPUY & Morgane MAZUR,
+* Gaetan Derobert & Mathieu BEUREMILA.
+>>>>>>> 6d28f195a55bbd5157e16c71ca3b59d03169097d
