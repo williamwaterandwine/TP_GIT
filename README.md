@@ -58,4 +58,3 @@ Liste des étudiants ayant réussi ce TP
 * Thomas POHU & Antoine SECHET & Arnaud PIHOURS,
 * Romain DUPUY & Morgane MAZUR,
 * Gaetan Derobert & Mathieu BEUREMILA.
->>>>>>> 6d28f195a55bbd5157e16c71ca3b59d03169097d
