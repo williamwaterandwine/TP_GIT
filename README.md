@@ -52,5 +52,10 @@ Liste des étudiants ayant réussi ce TP
 * Yann Jajkiewicz (& Baptiste Gauduchon),
 * Pierre Roulette & Benjamin Guilleux,
 * Mickael MENARD & * Siham BOULMANI,
+* Alexandre TARDIF & Gaylord THIREAU,
+* Vincent GILBERT & * Tanguy MOREAU,
 * Thomas POHU & Antoine SECHET & Arnaud PIHOURS.
+
+
+>>>>>>> ebc0060127d83bbd7978a7d999ecec93a7e4c7bc
 
