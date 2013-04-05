@@ -50,5 +50,7 @@ Git par la pratique
 Liste des étudiants ayant réussi ce TP
 --------------------------------------
 * Yann Jajkiewicz (& Baptiste Gauduchon),
+* Pierre Roulette & Benjamin Guilleux,
 * Mickael MENARD & * Siham BOULMANI.
+
 
