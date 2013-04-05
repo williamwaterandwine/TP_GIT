@@ -54,6 +54,5 @@ Liste des étudiants ayant réussi ce TP
 * Mickael MENARD & * Siham BOULMANI,
 * Alexendre & Jaouen & Robin,
 * Alexandre TARDIF & Gaylord THIREAU,
-* Vincent GILBERT & * Tanguy MOREAU.
-
-
+* Vincent GILBERT & * Tanguy MOREAU,
+* Thomas POHU & Antoine SECHET & Arnaud PIHOURS.
