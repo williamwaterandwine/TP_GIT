@@ -49,5 +49,6 @@ Git par la pratique
 
 Liste des étudiants ayant réussi ce TP
 --------------------------------------
-* Mickael MENARD,
-* Siham BOULMANI.
+* Yann Jajkiewicz (& Baptiste Gauduchon),
+* Mickael MENARD & * Siham BOULMANI.
+
